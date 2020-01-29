@@ -1,0 +1,12 @@
+package com.crm.pages;
+
+import org.testng.annotations.Test;
+
+public class OrgPage {
+
+	@Test
+	public void test2()
+	{
+		System.out.println("step 3");
+	}
+}
