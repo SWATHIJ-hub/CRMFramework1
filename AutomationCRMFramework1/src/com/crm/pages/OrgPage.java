@@ -8,5 +8,7 @@ public class OrgPage {
 	public void test2()
 	{
 		System.out.println("step 3");
+		System.out.println("step 4");
+		
 	}
 }
